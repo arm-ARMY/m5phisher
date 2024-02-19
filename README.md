@@ -15,15 +15,15 @@ Eu ainda nao sei como fazer isso. Ajudas sempre serao bem vindas.
 Ate o momento esta assim:
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher1.jpeg)
-(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher2.jpeg)
-(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher3.jpeg)
-(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher4.jpeg)
-(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher5.jpeg)
-(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher6.jpeg)
-(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher7.jpeg)
-(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher8.jpeg)
-(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher9.jpeg)
-(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher10.jpeg)
+![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher2.jpeg)
+![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher3.jpeg)
+![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher4.jpeg)
+![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher5.jpeg)
+![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher6.jpeg)
+![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher7.jpeg)
+![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher8.jpeg)
+![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher9.jpeg)
+![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher10.jpeg)
 
 Firmware for high-tech pranks on M5Stack ESP32 Devices
 
