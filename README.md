@@ -27,7 +27,7 @@ Ate o momento esta assim:
 
 Firmware for high-tech pranks on M5Stack ESP32 Devices
 
-![M5-Nemo Matrix Logo](https://github.com/arm-ARMY/m5stick-nemo/blob/main/NEMOMatrix.png)
+![M5-Nemo Matrix Logo](https://github.com/n0xa/m5stick-nemo/blob/main/NEMOMatrix.png)
 Logo by @unagironin
 
 ## Name and Background
