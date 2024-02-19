@@ -54,7 +54,9 @@ Captured credentials in 172.0.0.1/creds, also in sdcard...
 
 172.0.0.1/ssid link appearence
 
-Firmware for high-tech pranks on M5Stack ESP32 Devices
+All the code was made by n0xa and cotributors. Thanks for uploading this! By now all information in this main page remains with all the original project instructions. 
+
+#Firmware for high-tech pranks on M5Stack ESP32 Devices
 
 ![M5-Nemo Matrix Logo](https://github.com/n0xa/m5stick-nemo/blob/main/NEMOMatrix.png)
 Logo by @unagironin
