@@ -1,13 +1,33 @@
 # M5CARDPUTER-Phisher
+English:
 This is a fork from https://github.com/n0xa/m5stick-nemo/. 
 This started as a fork to understand how the code works...
 The only modification is the change in the NEMO Portal (renamed for WiFiPhisher) for a generic router firmware update to get WiFi creds instead Google account.
 The code is not finished. I plan to remove the first field in portal.h, the ones that ask for Network SSID confirmation, as it sounds odd and non leggit.
-I don't know how to do it yet. Helps are very welcome
+I don't know how to do it yet. Helps are very welcome.
+
+Portuguese
+Esse e um fork do https://github.com/n0xa/m5stick-nemo/.
+Esse fork teve como intuito inical a minha compreensao de como o codigo funciona...
+A unica modificacao foi a mudanca do NEMO Portal (renomeado para WiFiPhisher) para um portal que simula um banner generico de uma atualizacao de Roteador para capturar credenciais WiFi ao inves de contas Google.
+O codigo nao esta terminado ainda. Eu planejo remover o primeiro campo no arquivo portal.h, que pede a confirmacao do SSID da Rede, ja que aparenta nao ser legitimo.
+Eu ainda nao sei como fazer isso. Ajudas sempre serao bem vindas.
+Ate o momento esta assim:
+
+(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher1.jpg)
+(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher2.jpg)
+(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher3.jpg)
+(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher4.jpg)
+(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher5.jpg)
+(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher6.jpg)
+(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher7.jpg)
+(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher8.jpg)
+(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher9.jpg)
+(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher10.jpg)
 
 Firmware for high-tech pranks on M5Stack ESP32 Devices
 
-![M5-Nemo Matrix Logo](https://github.com/n0xa/m5stick-nemo/blob/main/NEMOMatrix.png)
+![M5-Nemo Matrix Logo](https://github.com/arm-ARMY/m5stick-nemo/blob/main/NEMOMatrix.png)
 Logo by @unagironin
 
 ## Name and Background
