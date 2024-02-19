@@ -16,8 +16,10 @@ Ate o momento esta assim:
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher1.jpeg)
 PS. To set a custom Captive portal in version 2.5.0 select menu WiFi > Scan WiFi > select any wifi. Then erase the SSID and insert a new one
+
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher2.jpeg)
-Captive portal appearence
+Custom captive portal
 
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher3.jpeg)
@@ -26,17 +28,24 @@ How it looks on iPhone
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher4.jpeg)
 
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher5.png)
+
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher6.png)
 
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher7.png)
+
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher8.jpeg)
 
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher9.png)
 
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher10.jpeg)
+
 
 Firmware for high-tech pranks on M5Stack ESP32 Devices
 
