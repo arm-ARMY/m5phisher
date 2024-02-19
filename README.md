@@ -4,7 +4,7 @@ This is a fork from https://github.com/n0xa/m5stick-nemo/, version 2.5.0.
 This started as a fork to understand how the code works...
 The only modification is the change in the NEMO Portal (renamed for WiFiPhisher) for a generic router firmware update to get WiFi creds instead Google account.
 The code is not finished. I plan to remove the first field in portal.h, the ones that ask for Network SSID confirmation, as it sounds odd and non leggit.
-I don't know how to do it yet. Helps are very welcome.
+I don't know how to do it yet. Helps are very welcome. Right  now thigs are like this:
 
 Portuguese:
 Esse e um fork do https://github.com/n0xa/m5stick-nemo/, versao 2.5.0.
