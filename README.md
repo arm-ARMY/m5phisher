@@ -13,17 +13,16 @@ A unica modificacao foi a mudanca do NEMO Portal (renomeado para WiFiPhisher) pa
 O codigo nao esta terminado ainda. Eu planejo remover o primeiro campo no arquivo portal.h, que pede a confirmacao do SSID da Rede, ja que aparenta nao ser legitimo.
 Eu ainda nao sei como fazer isso. Ajudas sempre serao bem vindas.
 Ate o momento esta assim:
-
-(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher1.jpg)
-(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher2.jpg)
-(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher3.jpg)
-(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher4.jpg)
-(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher5.jpg)
-(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher6.jpg)
-(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher7.jpg)
-(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher8.jpg)
-(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher9.jpg)
-(https://github.com/arm-ARMY/m5stick-nemo/blob/main/m5phisher10.jpg)
+(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher1.jpeg)
+(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher2.jpeg)
+(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher3.jpeg)
+(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher4.jpeg)
+(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher5.jpeg)
+(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher6.jpeg)
+(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher7.jpeg)
+(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher8.jpeg)
+(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher9.jpeg)
+(https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher10.jpeg)
 
 Firmware for high-tech pranks on M5Stack ESP32 Devices
 
