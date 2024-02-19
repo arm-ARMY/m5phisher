@@ -1,4 +1,10 @@
-# M5Stick-NEMO
+# M5CARDPUTER-Phisher
+This a fork from https://github.com/n0xa/m5stick-nemo/ 
+This started as a fork to understand how the code works...
+The only modification is the change in the NEMO Portal (renamed for WiFiPhisher) for a generic router firmware update to get WiFi creds instead Google account.
+The code is not finished. I plan to remove the first field in portal.h, the ones that ask for Network SSID confirmation, as it sounds odd and non leggit.
+I don't know how to do it yet. Helps are very welcome
+
 Firmware for high-tech pranks on M5Stack ESP32 Devices
 
 ![M5-Nemo Matrix Logo](https://github.com/n0xa/m5stick-nemo/blob/main/NEMOMatrix.png)
