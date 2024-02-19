@@ -51,8 +51,8 @@ Depois de inserir as credenciais.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher8.jpeg)
 
-Cardputer return info (it plays a bip sound).
-Aviso no Cardputer (ele emite um sinal sonoro).
+Cardputer return info (it plays a bip sound). It can be changed in portal.h.
+Aviso no Cardputer (ele emite um sinal sonoro). Pode ser modificado no portal.h.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher9.png)
 
@@ -63,6 +63,9 @@ Credenciais capturadas em 172.0.0.1/creds, e tambem gravadas no cartao SD...
 
 172.0.0.1/ssid link appearence.
 Aparencia do link 172.0.0.1/ssid.
+
+All other features works as expected (Clone Portal, Deauth Attack and Deauth+Clone). All Spam Funny is in Portuguese, and maybe I change it in the future. But you can edit wifispam.h to add the originals in n0xa repository or your own.
+Todos os outros recursos funcional como esperado (Clonar Portal, Ataque Deauth e Deauth+Clone). Todas as redes de Spam Engracado estao em portugues. Peguei elas de uma lista que achei na internet, penso em mudar alguns nomes. Sugestoes sempre serao bem vindas.
 
 All the code was made by n0xa and cotributors. Thanks for uploading this! By now all information in this main page remains with all the original project instructions. 
 
