@@ -64,8 +64,8 @@ Credenciais capturadas em 172.0.0.1/creds, e tambem gravadas no cartao SD...
 172.0.0.1/ssid link appearence.
 Aparencia do link 172.0.0.1/ssid.
 
-All other features works as expected (Clone Portal, Deauth Attack and Deauth+Clone). All Spam Funny is in Portuguese, and maybe I change it in the future. But you can edit wifispam.h to add the originals in n0xa repository or your own.
-Todos os outros recursos funcional como esperado (Clonar Portal, Ataque Deauth e Deauth+Clone). Todas as redes de Spam Engracado estao em portugues. Peguei elas de uma lista que achei na internet, penso em mudar alguns nomes. Sugestoes sempre serao bem vindas.
+All other features works as expected (Clone Portal, Deauth Attack and Deauth+Clone). All Spam Funny is in Portuguese, and maybe I change it in the future. But you can edit wifispam.h to add the originals in n0xa repository or your own. In the build directory is the .bin image in Portuguese. I'll compile one in English.
+Todos os outros recursos funcional como esperado (Clonar Portal, Ataque Deauth e Deauth+Clone). Todas as redes de Spam Engracado estao em portugues. Peguei elas de uma lista que achei na internet, penso em mudar alguns nomes. Sugestoes sempre serao bem vindas. A imagem .bin no diretorio build esta em Portugues. Vou compilar a versao em Ingles tambem.
 
 All the code was made by n0xa and cotributors. Thanks for uploading this! By now all information in this main page remains with all the original project instructions. 
 
