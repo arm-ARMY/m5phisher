@@ -1,13 +1,13 @@
 # M5CARDPUTER-Phisher
 English:
-This is a fork from https://github.com/n0xa/m5stick-nemo/. 
+This is a fork from https://github.com/n0xa/m5stick-nemo/, version 2.5.0. 
 This started as a fork to understand how the code works...
 The only modification is the change in the NEMO Portal (renamed for WiFiPhisher) for a generic router firmware update to get WiFi creds instead Google account.
 The code is not finished. I plan to remove the first field in portal.h, the ones that ask for Network SSID confirmation, as it sounds odd and non leggit.
 I don't know how to do it yet. Helps are very welcome.
 
 Portuguese
-Esse e um fork do https://github.com/n0xa/m5stick-nemo/.
+Esse e um fork do https://github.com/n0xa/m5stick-nemo/, versao 2.5.0
 Esse fork teve como intuito inical a minha compreensao de como o codigo funciona...
 A unica modificacao foi a mudanca do NEMO Portal (renomeado para WiFiPhisher) para um portal que simula um banner generico de uma atualizacao de Roteador para capturar credenciais WiFi ao inves de contas Google.
 O codigo nao esta terminado ainda. Eu planejo remover o primeiro campo no arquivo portal.h, que pede a confirmacao do SSID da Rede, ja que aparenta nao ser legitimo.
@@ -15,14 +15,23 @@ Eu ainda nao sei como fazer isso. Ajudas sempre serao bem vindas.
 Ate o momento esta assim:
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher1.jpeg)
+PS. To set a custom Captive portal in version 2.5.0 select menu WiFi > Scan WiFi > select any wifi. Then erase the SSID and insert a new one
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher2.jpeg)
+Captive portal appearence
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher3.jpeg)
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher4.jpeg)
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher5.png)
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher6.png)
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher7.png)
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher8.jpeg)
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher9.png)
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher10.jpeg)
 
 Firmware for high-tech pranks on M5Stack ESP32 Devices
