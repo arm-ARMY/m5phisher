@@ -16,18 +16,18 @@ Ate o momento esta assim:
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher1.jpeg)
 
-PS. To set a custom Captive portal in version 2.5.0 select menu WiFi > Scan WiFi > select any wifi. Then erase the SSID and insert a new one
+PS. To set a custom Captive portal in version 2.5.0 select menu WiFi > Scan WiFi > select any wifi. Then erase the SSID and insert a new one.
 Obs.: Para selecionar um portal customizado, na versao 2.5.0 selecione no menu WiFi > Escanear WiFi > Selecione uma rede qualquer e insira uma nova.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher2.jpeg)
 
-Custom captive portal
-Portal customizado
+Custom captive portal.
+Portal customizado.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher3.jpeg)
 
-How it looks on iPhone
-Como aparenta no iPhone
+How it looks on iPhone.
+Como aparenta no iPhone.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher4.jpeg)
 
@@ -36,33 +36,33 @@ Conetando a rede customizada...
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher5.png)
 
-Captive portal appearence
-Aparencia do portal
+Captive portal appearence.
+Aparencia do portal.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher6.png)
 
-When filled fields 
-Quando os campos estao completos
+When filled fields .
+Quando os campos estao completos.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher7.png)
 
-After enter credentials
-Depois de inserir as credenciais
+After enter credentials.
+Depois de inserir as credenciais.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher8.jpeg)
 
-Cardputer return info (it plays a bip sound)
-Aviso no Cardputer (ele emite um sinal sonoro)
+Cardputer return info (it plays a bip sound).
+Aviso no Cardputer (ele emite um sinal sonoro).
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher9.png)
 
 Captured credentials in 172.0.0.1/creds, also recorded in the sdcard...
-Credenciais capturadas em 172.0.0.1/creds, e tambem gravadas no cartao SD
+Credenciais capturadas em 172.0.0.1/creds, e tambem gravadas no cartao SD...
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher10.png)
 
-172.0.0.1/ssid link appearence
-Aparencia do link 172.0.0.1/ssid
+172.0.0.1/ssid link appearence.
+Aparencia do link 172.0.0.1/ssid.
 
 All the code was made by n0xa and cotributors. Thanks for uploading this! By now all information in this main page remains with all the original project instructions. 
 
