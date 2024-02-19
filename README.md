@@ -22,46 +22,55 @@ Obs.: Para selecionar um portal customizado, na versao 2.5.0 selecione no menu W
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher2.jpeg)
 
 Custom captive portal.
+
 Portal customizado.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher3.jpeg)
 
 How it looks on iPhone.
+
 Como aparenta no iPhone.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher4.jpeg)
 
 Connecting to custom WiFi Network...
+
 Conetando a rede customizada...
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher5.png)
 
 Captive portal appearence.
+
 Aparencia do portal.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher6.png)
 
-When filled fields .
+When filled fields.
+
 Quando os campos estao completos.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher7.png)
 
 After enter credentials.
+
 Depois de inserir as credenciais.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher8.jpeg)
 
 Cardputer return info (it plays a bip sound). It can be changed in portal.h.
+
 Aviso no Cardputer (ele emite um sinal sonoro). Pode ser modificado no portal.h.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher9.png)
 
 Captured credentials in 172.0.0.1/creds, also recorded in the sdcard...
+
 Credenciais capturadas em 172.0.0.1/creds, e tambem gravadas no cartao SD...
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher10.png)
 
 172.0.0.1/ssid link appearence.
+
 Aparencia do link 172.0.0.1/ssid.
 
 All other features works as expected (Clone Portal, Deauth Attack and Deauth+Clone). All Spam Funny is in Portuguese, and maybe I change it in the future. But you can edit wifispam.h to add the originals in n0xa repository or your own. In the build directory is the .bin image in Portuguese. I'll compile one in English.
@@ -185,7 +194,7 @@ arduino-cli lib install M5Cardputer --log-level warn --verbose
 arduino-cli lib install IRRemoteESP8266 --log-level warn --verbose
 
 # Compile sketch
-arduino-cli compile --fqbn m5stack:esp32:m5stack_cardputer -e --build-property build.partitions=huge_app --build-property upload.maximum_size=3145728 ./m5stick-nemo.ino
+arduino-cli compile --fqbn m5stack:esp32:m5stack_cardputer -e --build-property build.partitions=huge_app --build-property upload.maximum_size=3145728 ./m5phisher.ino
 
 ```
 
@@ -194,7 +203,7 @@ arduino-cli compile --fqbn m5stack:esp32:m5stack_cardputer -e --build-property b
 
 ```bash
 
-esptool.py --chip esp32s3 merge_bin --output final.bin 0x0000 m5stick-nemo.ino.bootloader.bin 0x8000 m5stick-nemo.ino.partitions.bin 0x10000 m5stick-nemo.ino.bin
+esptool.py --chip esp32s3 merge_bin --output final.bin 0x0000 m5phisher.ino.bootloader.bin 0x8000 m5phisher.ino.partitions.bin 0x10000 m5phisher.ino.bin
 ```
 
 - You can now flash the merged binary firmware using `esptool`
