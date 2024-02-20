@@ -5,6 +5,7 @@ This started as a fork to understand how the code works...
 The only modification is the change in the NEMO Portal (renamed for WiFiPhisher) for a generic router firmware update to get WiFi creds instead Google account.
 The code is not finished. I plan to remove the first field in portal.h, the ones that ask for Network SSID confirmation, as it sounds odd and non leggit.
 I don't know how to do it yet. Helps are very welcome. 
+
 AS VERSION 2.5.0, UNTIL NOW, NEMO PORTAL DOESN'T WORK YOU HAVE TO SCAN WIFI, SELECT A RANDOM ONE, THEN CHANGE SSID. THIS ONLY HAVE EDUCATIONAL UTILITY OR IF YOU WANT TO CONNECT AND GET CREDS OR CHANGE SSID, AS THE MAIN PORPOUSE OF THIS FORK IS TO CLONE EXISTENT NETWORKS.
 
 Right  now thigs are like this:
