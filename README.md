@@ -156,38 +156,12 @@ In NEMO Portal mode, NEMO activates an open WiFi Hotspot named "Nemo Free WiFi" 
 * SD Card support is only enabled by default on the M5Stack Cardputer platform. It can be enabled on M5Stick devices but an SD Card reader must be built and attached to the front panel pin header.
 * NEMO Portal is only for use on professional engagements with a valid scope of work, educational or demonstration purposes. Storage, sale, or use of personal information without consent is against the law. 🤓
 
-## Install from M5Burner
-This is the absolute easiest way to get NEMO
-* [M5Stick C Plus Quick Start](https://docs.m5stack.com/en/quick_start/m5stickc_plus/uiflow) has links to the M5Burner app for Linux, MacOS and Windows. This is the official tool to install UIFlow and other official firmware. I provide up-to-date binaries for NEMO there.
-* Launch M5Burner
-* Select "StickC" from the menu on the left (or StampS3 for Cardputer)
-* Use the search at the top of the app to look for "NEMO". My official builds will be uploaded by "4x0nn" and have photos.
-* Click Download
-* Click Burn
+## How to compile and burn m5phisher
 
-## Install .bin files manually with esptool.py
 * Install ESP-IDF tools per the [Espressif Getting Started Guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/)
 * Open the esp-idf CMD tool (on Windows) - on Mac or Linux, esp-idf.py and esptool.py should be in the system path.
-* esptool.py --port COMPORT -b 115200 write_flash -z 0x0 M5Nemo-VERSION.bin
+* esptool.py --port COMPORT -b 115200 write_flash -z 0x0 m5phisher.bin
   * port may be a COM port e.g. COM4, COM11 on Windows. On Mac and Linux it will usually be in /dev such as /dev/ttyUSB0, /dev/ttyACM0 or /dev/cu.usbserial-3
-  * M5Nemo-VERSION.bin should be a version you downloaded from a GitHub Release -- preferably the latest available.
-
-## Building from Source
-If you want to customize NEMO or contribute to the project, you should be familiar with building NEMO from source.
-* Install Arduino IDE. I've used Arduino 1.8 on Linux and Windows, and Arduino 2.2 on Windows successfully.
-* Install the M5Stack boards for Arduino IDE: In File -> Preferences, paste this URL into the "Boards Manager URLs" text box. Use commas between URLs if there are already URLs present.  https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json
-* If M5Stack -> M5Stick-C-Plus doesn't show up under Tools -> Boards, then use Tools -> Boards -> Boards Manager and search for M5Stack. This will install support for most of the M5Stack boards including the Stick C Plus.
-* Ensure the correct device model (e.g. M5Stick-C, M5Stick-C-Plus or M5Cardputer) is selected in the boards menu.
-* Install necessary libraries. In Sketch -> Include Library -> Library Manager, search for and install the following libraries and any dependencies they require:
-  * M5StickCPlus, M5StickC or M5Cardputer
-  * IRRemoteESP8266
-* Un-comment the appropriate `#define` line near the top for your platform (STICK_C, STICK_C_PLUS or CARDPUTER)
-* Switch partition schemes. `Tools` -> `Partition Scheme` -> `No OTA (Large APP)` - sometimes this option is labeled `Huge APP` 
-* Configuration
-  * The code should compile cleanly and work on an M5Stick C Plus out of the box from the master branch or a release tag.
-  * Uncomment only the one appropriate `#define` option or compiler errors will occur. 
-  * If for some reason the screen jumps from very dim at level 0 to almost fully bright at level 1 and further brightness levels don't affect anything, set the pct_brightness variable to false.
-* Compile and upload the project
 
 ## Building from Source (with Arduino CLI)
 
@@ -221,7 +195,7 @@ esptool.py --chip esp32s3 merge_bin --output final.bin 0x0000 m5phisher.ino.boot
 
 ```bash
 
-esptool.exe write_flash -z 0 final.bin
+esptool.py write_flash -z 0 final.bin
 ```
 
 
