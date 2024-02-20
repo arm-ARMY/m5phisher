@@ -27,11 +27,13 @@ PS. To set a custom Captive portal in version 2.5.0 select menu WiFi > Scan WiFi
 
 Obs.: Para selecionar um portal customizado, na versao 2.5.0 selecione no menu WiFi > Escanear WiFi > Selecione uma rede qualquer e insira uma nova.
 
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher2.jpeg)
 
 Custom captive portal.
 
 Portal customizado.
+
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher3.jpeg)
 
@@ -39,11 +41,13 @@ How it looks on iPhone.
 
 Como aparenta no iPhone.
 
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher4.jpeg)
 
 Connecting to custom WiFi Network...
 
 Conetando a rede customizada...
+
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher5.png)
 
@@ -51,11 +55,13 @@ Captive portal appearence.
 
 Aparencia do portal.
 
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher6.png)
 
 When filled fields.
 
 Quando os campos estao completos.
+
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher7.png)
 
@@ -63,11 +69,13 @@ After enter credentials.
 
 Depois de inserir as credenciais.
 
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher8.jpeg)
 
-Cardputer return info (it plays a bip sound). It can be changed in portal.h. Comment line 290 with // at the beginning
+Cardputer return info (it plays a bip sound). It can be changed in portal.h. Comment line 290 with // at the beginning.
 
-Aviso no Cardputer (ele emite um sinal sonoro). Pode ser modificado no portal.h. Comente a linha 290 com // no inicio
+Aviso no Cardputer (ele emite um sinal sonoro). Pode ser modificado no portal.h. Comente a linha 290 com // no inicio.
+
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher9.png)
 
@@ -75,11 +83,13 @@ Captured credentials in 172.0.0.1/creds, also recorded in the sdcard...
 
 Credenciais capturadas em 172.0.0.1/creds, e tambem gravadas no cartao SD...
 
+
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher10.png)
 
 172.0.0.1/ssid link appearence.
 
 Aparencia do link 172.0.0.1/ssid.
+
 
 All other features works as expected (Clone Portal, Deauth Attack and Deauth+Clone),  redirecting to WifiPhisher Portal. All Spam Funny is in Portuguese, and maybe I change it in the future. But you can edit wifispam.h to add the originals in n0xa repository or your own. In the build directory there is the .bin image in Portuguese. I'll compile one in English.
 
