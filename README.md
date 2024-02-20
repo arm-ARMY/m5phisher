@@ -65,9 +65,9 @@ Depois de inserir as credenciais.
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher8.jpeg)
 
-Cardputer return info (it plays a bip sound). It can be changed in portal.h.
+Cardputer return info (it plays a bip sound). It can be changed in portal.h. Comment line 290 with // at the beginning
 
-Aviso no Cardputer (ele emite um sinal sonoro). Pode ser modificado no portal.h.
+Aviso no Cardputer (ele emite um sinal sonoro). Pode ser modificado no portal.h. Comente a linha 290 com // no inicio
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher9.png)
 
