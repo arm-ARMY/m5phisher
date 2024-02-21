@@ -189,7 +189,8 @@ arduino-cli lib install M5Cardputer --log-level warn --verbose
 arduino-cli lib install IRRemoteESP8266 --log-level warn --verbose
 
 # Git clone repo
-git clone https://github.com/arm-ARMY/m5phisher.git && cd m5phisher
+git clone https://github.com/arm-ARMY/m5phisher.git
+cd m5phisher
 
 # Compile sketch
 arduino-cli compile --fqbn m5stack:esp32:m5stack_cardputer -e --build-property build.partitions=huge_app --build-property upload.maximum_size=3145728 ./m5phisher.ino --log-level warn --verbose
