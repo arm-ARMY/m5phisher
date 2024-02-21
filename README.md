@@ -13,7 +13,7 @@ Right  now thigs are like this:
 Portugues:
 Esse e um fork do https://github.com/n0xa/m5stick-nemo/, versao 2.5.0.
 Ele teve como intuito inicial a minha compreensao de como o codigo funciona...
-A unica modificacao foi a mudanca do NEMO Portal (renomeado para WiFiPhisher) para um portal que simula um banner generico de uma atualizacao de Roteador para capturar credenciais WiFi ao inves de contas Google.
+A unica modificacao foi a mudanca do NEMO Portal (renomeado para WiFiPhisher) para um portal que simula uma pagina generica de uma atualizacao de Roteador para capturar credenciais WiFi ao inves de contas Google.
 O codigo nao esta terminado ainda. Eu planejo remover o primeiro campo no arquivo portal.h, que pede a confirmacao do SSID da Rede, ja que aparenta nao ser legitimo.
 Eu ainda nao sei como fazer isso. Ajudas sempre serao bem vindas.
 
