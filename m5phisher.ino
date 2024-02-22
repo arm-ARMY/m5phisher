@@ -2035,9 +2035,10 @@ void portal_loop(){
         }
       }
     #endif
+  }
   dnsServer.processNextRequest();
   webServer.handleClient();
-  }
+  
   if (check_next_press()){
     shutdownWebServer();
     portal_active = false;
