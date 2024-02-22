@@ -56,7 +56,7 @@ Aparencia do portal.
 
 When filled fields.
 
-Quando os campos estao completos.
+Quando os campos estao preenchidos.
 
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher7.png)
