@@ -19,9 +19,9 @@ Ate o momento esta assim:
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher1.jpeg)
 
-PS. To set a custom Captive portal in version 2.5.0 select menu WiFi > Scan WiFi > select any wifi > Clone Portal > Then erase the SSID and insert a new one.
+Example of captive portal
 
-Obs.: Para selecionar um portal customizado, na versao 2.5.0 selecione no menu WiFi > Escanear WiFi > Selecione uma rede qualquer > Clonar  Portal > Insira uma nova.
+Exemplo de portal
 
 
 ![m5phisher picture](https://github.com/arm-ARMY/m5phisher/blob/main/m5phisher2.jpeg)
